@@ -1,5 +1,5 @@
 # PyBites
-Code from PyBites (https://codechalleng.es/)
+Code from Solving PyBites (https://codechalleng.es/)
 
 ## Intro
 [Bite 101 - f-strings and a simple if/else](https://github.com/beef-erikson/PyBites/blob/master/Bites/Bite101.py)  
