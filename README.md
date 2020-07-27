@@ -8,6 +8,7 @@ Code from Solving PyBites (https://codechalleng.es/)
 [Bite 104 - Split and join](https://github.com/beef-erikson/PyBites/blob/master/Bites/Intro/Bite104.py)  
 [Bite 105 - Slice and dice](https://github.com/beef-erikson/PyBites/blob/master/Bites/Intro/Bite105.py)  
 [Bite 106 - Strip out vowels and count the number of replacements](https://github.com/beef-erikson/PyBites/blob/master/Bites/Intro/Bite106.py)  
+[Bite 107 - Filter numbers with a list comprehension](https://github.com/beef-erikson/PyBites/blob/master/Bites/Intro/Bite107.py)  
 
 ## Beginner  
 [Bite 1 - Sum of n numbers](https://github.com/beef-erikson/PyBites/blob/master/Bites/Beginner/Bite1.py)  
