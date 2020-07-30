@@ -11,7 +11,9 @@ Code from Solving PyBites (https://codechalleng.es/)
 [Bite 107 - Filter numbers with a list comprehension](https://github.com/beef-erikson/PyBites/blob/master/Bites/Intro/Bite107.py)  
 [Bite 108 - Loop over a dict of namedtuples calculating a total score](https://github.com/beef-erikson/PyBites/blob/master/Bites/Intro/Bite108.py)  
 [Bite 109 - Workout dictionary lookups](https://github.com/beef-erikson/PyBites/blob/master/Bites/Intro/Bite109.py)  
-[Bite 110 - Type conversion and exception handling](https://github.com/beef-erikson/PyBites/blob/master/Bites/Intro/Bite110.py)  
+[Bite 110 - Type conversion and exception handling](https://github.com/beef-erikson/PyBites/blob/master/Bites/Intro/Bite110.py)    
+
+![Image of certificate](https://pbs.twimg.com/media/EeJfWYCWkAA8xLY?format=png&name=4096x4096)
 
 ## Beginner  
 [Bite 1 - Sum of n numbers](https://github.com/beef-erikson/PyBites/blob/master/Bites/Beginner/Bite1.py)  
